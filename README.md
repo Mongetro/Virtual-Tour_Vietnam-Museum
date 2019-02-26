@@ -10,7 +10,7 @@ Commme mentionné dans notre rapport, pour la réalisation de ce projet, nous av
     -------------------------------------
     L'application VRTMuseum pour Android
     -------------------------------------
-L'application VRTMuseum.apk est l'executable que nous avons créée pour que notre application puisse fonctionner sur des appareils comme "smart phone, tablette" avec le systè Android.
+L'application VRTMuseum.apk est l'executable que nous avons créé pour que notre application puisse fonctionner sur des appareils comme "smart phone, tablette" avec le systè Android.
 1- A partir de Google Play Store, installez Cardboard sur l'appareil
 2- Installez l'application VRTMuseum.apk
 
