@@ -14,4 +14,7 @@ L'application VRTMuseum.apk est l'executable que nous avons créé pour que notr
 1- A partir de Google Play Store, installez Cardboard sur l'appareil
 2- Installez l'application VRTMuseum.apk
 
-N.B: Pour le fonctionnement de l'application, il faut une version d'Android 4.4 Kit Kat au moins installée sur l'appareil.
+N.B 1: Pour le fonctionnement de l'application, il faut une version d'Android 4.4 Kit Kat au moins installée sur l'appareil.
+N.B 2: Le projet Unity ainsi que l'executable VRTMuseum.apk sont accessible depuis le lien ci-dessous:
+https://drive.google.com/drive/folders/1AMlFjOboA1OGxyqIxzDHX4xFD3fWconW
+
